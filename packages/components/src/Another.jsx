@@ -1,8 +1,8 @@
 import React from 'react';
 
-function Hello() {
+function Another() {
   return (
     <div>Another Component</div>
   );
 }
-module.exports = Hello;
+module.exports = Another;
